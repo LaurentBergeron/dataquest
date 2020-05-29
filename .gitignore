@@ -1,0 +1,4 @@
+*.tar
+*.db
+*.csv
+*/.ipynb_checkpoints/*
